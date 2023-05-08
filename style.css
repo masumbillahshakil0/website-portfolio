@@ -36,3 +36,11 @@ hr{
     margin-bottom: 50px;
     background-color: yellowgreen;
 }
+
+.dream-area{
+    display: flex;
+}
+.dream-width{
+    width: 50%;
+    padding-left: 40px;
+}
